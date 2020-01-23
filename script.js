@@ -12,7 +12,8 @@ $(".tablinks1").click(function(){
 });
 
 $(document).ready(function() {
-    $(".home").show();
+   
+    $(".tablinks4").show();
     
     $(".labels").hide();
     
@@ -37,6 +38,4 @@ $(".tablinks3").click(function(){
    $(".videos").show(); 
 });
 
-$(document).ready(function() {
-    $(".tablinks4").show();
-});
+
