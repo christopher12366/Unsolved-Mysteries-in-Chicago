@@ -13,8 +13,8 @@ $(".tablinks1").click(function(){
 
 $(document).ready(function() {
    
-    $(".tablinks4").show();
-    
+    $(".home").show();
+        $(".cases").hide();
     $(".labels").hide();
     
 });
